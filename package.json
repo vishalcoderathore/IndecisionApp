@@ -5,9 +5,9 @@
   "author": "Vishal Rathore",
   "license": "MIT",
   "scripts": {
-    "dev" : "./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
-    "postinstall" : "webpack -p",
-    "start" : "node server.js"
+    "dev": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "postinstall": "webpack -p",
+    "start": "node server.js"
   },
   "dependencies": {
     "babel-cli": "6.24.1",
