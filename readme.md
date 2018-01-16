@@ -10,7 +10,7 @@ Web App using React.JS that makes decisions for you. You can add, view, and remo
 
 Click on Add Option to add a new option. You can add multiple options or just stick to one. Upon addition of an option, the "What should I do?" button gets unlocked and becomes clickable. When the button is clicked, the app would choose an option for you from the provided options.You can remove "a" option or can also remove all the options at once. The app is also responsive and so would run on your mobile devices as well.
 
-App is built using the following tech stack : 
+App is built using the following tech stack: 
 
 1. Babel
 2. Express
